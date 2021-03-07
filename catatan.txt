@@ -1,0 +1,7 @@
+mt = margin-top
+class = btn btn-success adalah button warna hijau
+class = btn btn-danger adalah button warna merah
+class = btn btn-warning adalah button warna kuning
+class = table-bordered adalah menambahkan border pada table
+class = table-striped adalah menambahkan garis zebra
+
